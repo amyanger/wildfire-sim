@@ -167,6 +167,10 @@ Contributions are welcome! Areas for enhancement:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+## 👤 Author
+
+Arjun Myanger - [GitHub](https://github.com/amyanger)
+
 ## 🙏 Acknowledgments
 
 - Inspired by real wildfire management practices
