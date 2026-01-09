@@ -28,5 +28,10 @@ install: $(TARGET)
 help:
 	@echo "Available targets:"
 	@echo "  all     - Build the simulation"
+	@echo "  run     - Build and run the simulation"
 	@echo "  clean   - Remove build files"
 	@echo "  install - Install to /usr/local/bin"
+
+.PHONY: run
+run: $(TARGET)
+	./$(TARGET)
